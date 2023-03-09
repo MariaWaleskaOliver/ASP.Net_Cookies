@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yZeGXlADDhsU1ObVq8iJ8vSj2poEZ0ZEoI6Br3Odb7YTmdJ2Xnpwe2GikSVHop0ysauOeAEZ8LvhiOBQ19Pz6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rapha\\Desktop\\College\\3Semestre\\MicrosoftTec3Semester\\InClasses\\inClass3\\UserActionTrackingApp\\UserActionTrackingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rapha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
